@@ -6,14 +6,11 @@
 <p align="center">App to calculate the IMC</p>
 
 <p align="center">
-  <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="https://i.imgur.com/GOT4cxH.png" alt="List">
-  </kbd>
    <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="https://i.imgur.com/wwEN8er.png" alt="List">
+    <img width="240" style="border-radius: 5px" height="450" src="https://i.imgur.com/DXSMrq3.png" alt="List">
   </kbd>
   <kbd>
-    <img width="240" style="border-radius: 5px" height="450" src="https://i.imgur.com/7BrQvs1.jpg" alt="List">
+    <img width="240" style="border-radius: 5px" height="450" src="https://i.imgur.com/5XD1PcG.png" alt="List">
   </kbd>
 </p>
 
